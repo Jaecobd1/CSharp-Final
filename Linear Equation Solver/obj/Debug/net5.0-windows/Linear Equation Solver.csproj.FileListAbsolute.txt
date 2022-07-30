@@ -1,0 +1,7 @@
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.csproj.AssemblyReference.cache
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear_Equation_Solver.Form1.resources
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.csproj.GenerateResource.cache
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.AssemblyInfoInputs.cache
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.AssemblyInfo.cs
+C:\Users\a\Source\Repos\Linear Equation Solver\Linear Equation Solver\obj\Debug\net5.0-windows\Linear Equation Solver.csproj.CoreCompileInputs.cache
